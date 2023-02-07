@@ -12,6 +12,10 @@
 
 ## Duotek
 
-[test suite #1](https://drive.google.com/file/d/1qUWD8PacqdwMxpr1F3yyebUIPM37JIHS/view?usp=sharing)
+[test suite #6](https://drive.google.com/file/d/1qUWD8PacqdwMxpr1F3yyebUIPM37JIHS/view?usp=sharing)
 
-## Charity hospital (coming soon...)
+## Charity hospital
+
+[test suite #7](https://drive.google.com/file/d/1XA8TxbkuErASAEZtZaZcGFKeDCAcPpRe/view?usp=sharing)
+
+[test suite #8](https://drive.google.com/file/d/1uge978nXs9HOHgJpadFS1c8CTi81oeoP/view?usp=sharing)
